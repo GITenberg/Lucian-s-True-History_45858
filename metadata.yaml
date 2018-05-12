@@ -3,14 +3,14 @@ _version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Whibley, Charles
-    birthdate: &id001 1859
+    birthdate: 1859
     deathdate: 1930
     gutenberg_agent_id: '678'
     url: http://www.gutenberg.org/2009/agents/678
     wikipedia: http://en.wikipedia.org/wiki/Charles_Whibley
   illustrators:
   - agent_name: Strang, William
-    birthdate: *id001
+    birthdate: 1859
     deathdate: 1921
     gutenberg_agent_id: '43497'
     url: http://www.gutenberg.org/2009/agents/43497
@@ -49,6 +49,8 @@ creator:
     - http://en.wikipedia.org/wiki/Lucian
     - http://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CE%BA%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45858#Lucian-s-True-History
 gutenberg_bookshelf: Precursors of Science Fiction
 gutenberg_issued: '2014-06-01'
 gutenberg_type: Text
