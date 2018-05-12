@@ -1,0 +1,67 @@
+_repo: Lucian-s-True-History_45858
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Whibley, Charles
+    birthdate: &id001 1859
+    deathdate: 1930
+    gutenberg_agent_id: '678'
+    url: http://www.gutenberg.org/2009/agents/678
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Whibley
+  illustrators:
+  - agent_name: Strang, William
+    birthdate: *id001
+    deathdate: 1921
+    gutenberg_agent_id: '43497'
+    url: http://www.gutenberg.org/2009/agents/43497
+  - agent_name: Clark, Joseph Benwell
+    alias: Clark, J. B. (Joseph Benwell)
+    gutenberg_agent_id: '43498'
+    url: http://www.gutenberg.org/2009/agents/43498
+  - agent_name: Beardsley, Aubrey
+    birthdate: 1872
+    deathdate: 1898
+    gutenberg_agent_id: '41820'
+    url: http://www.gutenberg.org/2009/agents/41820
+  translator:
+    agent_name: Hickes, Francis
+    alias: Hicks, Francis
+    birthdate: 1566
+    deathdate: 1631
+    gutenberg_agent_id: '43499'
+    url: http://www.gutenberg.org/2009/agents/43499
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucian, of Samosata
+    aliases:
+    - Λουκιανός, ὁ Σαμοσατεύς
+    - Λουκιανός, ο Σαμοσατεύς
+    - Λουκιανος, ο Σαμοσατευς
+    - Samosata, Lucian of
+    birthdate: 120
+    deathdate: 180
+    gutenberg_agent_id: '1997'
+    url: http://www.gutenberg.org/2009/agents/1997
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Lucian
+    - http://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CE%BA%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
+description: ''
+gutenberg_bookshelf: Precursors of Science Fiction
+gutenberg_issued: '2014-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45858'
+  lccn: '13007987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcc 'PA'
+- !lcsh 'Satire, Greek -- Translations into English'
+title: Lucian's True History
+url: http://www.gutenberg.org/ebooks/45858
